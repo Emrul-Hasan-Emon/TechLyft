@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <>
-      <h1>Vite + React + Redux</h1>
-    </>
-  );
+  return <></>;
 }
 
 export default App;
