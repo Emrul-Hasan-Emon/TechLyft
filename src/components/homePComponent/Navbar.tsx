@@ -1,14 +1,14 @@
 const Navbar = () => {
   return (
     <>
-      <div className="mx-10 py-10 bg-[#F0F0F0]">
+      <div className=" py-10 bg-[#F0F0F0]">
         <div
           className="w-full h-fit   flex justify-between gap-10 "
           id="header"
         >
-          <div className="items bg-[#F0F0F0] w-full h-fit m-3 flex justify-around align-middle  ">
+          <div className="items bg-[#F0F0F0] w-full h-fit m-3 flex justify-start align-middle  ">
             <img
-              className="h-14  bg-none static p-1 "
+              className="h-14   bg-transparent rounded-full static  "
               src="../../../public/images/techlyftlogo.jpg"
               alt="company-logo"
             />
