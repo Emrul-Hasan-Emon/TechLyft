@@ -12,7 +12,7 @@ const Faq = () => {
           <h2 className="text-4xl font-semibold text-gray-900 mb-4">
             Common Questions.
           </h2>
-          <p className="text-lg text-gray-600">
+          <p className="text-lg text-gray-900">
             Answers to common queries about our services and processes.
           </p>
         </div>
@@ -20,12 +20,12 @@ const Faq = () => {
         {/* <!-- FAQ Content --> */}
         <div className="flex flex-wrap justify-between items-center">
           <div className="w-full md:w-1/2">
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus ">
               <input type="radio" name="my-accordion-3" defaultChecked />
               <div className="collapse-title text-xl font-medium">
                 What types of projects do you work on?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content text-gray-800">
                 <p>
                   We handle a variety of projects from simple websites to
                   complex applications for businesses of all sizes including
@@ -34,12 +34,12 @@ const Faq = () => {
                 </p>
               </div>
             </div>
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus ">
               <input type="radio" name="my-accordion-3" />
               <div className="collapse-title text-xl font-medium">
                 How long does a typical project take?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content text-gray-800">
                 <p>
                   The duration of the project varies depending on the scope, but
                   we provide detailed timelines during the project briefing
@@ -47,12 +47,12 @@ const Faq = () => {
                 </p>
               </div>
             </div>
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus ">
               <input type="radio" name="my-accordion-3" />
               <div className="collapse-title text-xl font-medium">
                 Do you offer post-launch support?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content text-gray-800">
                 <p>
                   {" "}
                   Yes, we offer comprehensive post-launch support to ensure
@@ -60,24 +60,24 @@ const Faq = () => {
                 </p>
               </div>
             </div>
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus ">
               <input type="radio" name="my-accordion-3" />
               <div className="collapse-title text-xl font-medium">
                 What if I don’t have a technical background?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content text-gray-800">
                 <p>
                   No problem! We will guide you through the process and explain
                   everything in simple terms.
                 </p>
               </div>
             </div>
-            <div className="collapse collapse-plus bg-base-200">
+            <div className="collapse collapse-plus ">
               <input type="radio" name="my-accordion-3" />
               <div className="collapse-title text-xl font-medium">
                 How does the payment process work?
               </div>
-              <div className="collapse-content">
+              <div className="collapse-content text-gray-800">
                 <p>
                   We accept payments via bank transfer, credit cards, or PayPal.
                   We typically require a deposit before starting the project and
