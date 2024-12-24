@@ -2,11 +2,11 @@ const Banner = () => {
   return (
     <div className="bg-[#f0f0f0]">
       {/* <!-- Banner Section --> */}
-      <div className="flex flex-col md:flex-row items-center justify-between bg-[#f0f0f0] py-12 px-6 md:px-16 gap-8">
+      <div className="flex flex-col md:flex-row items-center justify-between bg-[#f0f0f0] py-12  gap-8">
         {/* <!-- Left Section --> */}
         <div
           id="desc-part"
-          className=" text-black p-8 md:p-10 rounded-lg shadow-lg md:w-1/2"
+          className=" text-black p-8 md:p-10 rounded-lg  md:w-1/2"
         >
           <h1 className="font-sans text-4xl md:text-6xl mb-5 font-bold leading-tight">
             Transforming Ideas into Digital Reality
