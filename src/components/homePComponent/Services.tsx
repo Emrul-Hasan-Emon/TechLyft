@@ -16,8 +16,8 @@ const Services = () => {
           </p>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-5 mt-10">
-          <div className="p-6 border rounded-sm text-center hover:bg-gray-100">
+        <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4  mt-10">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/web-01.png"
@@ -33,7 +33,7 @@ const Services = () => {
               unique needs
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/e-commerc-02.png"
@@ -49,7 +49,7 @@ const Services = () => {
               customer satisfaction
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/mobile-03.png"
@@ -65,7 +65,7 @@ const Services = () => {
               engaged
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/ui_ux-04.png"
@@ -79,7 +79,7 @@ const Services = () => {
               engagement & usability
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/enter_price_solution-05.png"
@@ -95,7 +95,7 @@ const Services = () => {
               enterprise-grade solutions
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/Seo-06.png"
@@ -111,7 +111,7 @@ const Services = () => {
               strategies
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/cloud_service-07.png"
@@ -127,7 +127,7 @@ const Services = () => {
               infrastructure
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/dep_ops_service-8.png"
@@ -143,7 +143,7 @@ const Services = () => {
               practices
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/security_service-09.png"
@@ -159,7 +159,7 @@ const Services = () => {
               solutions
             </p>
           </div>
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/api_development-10.png"
@@ -175,7 +175,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/cms-11.png"
@@ -190,7 +190,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/quality_asurance-12.png"
@@ -207,7 +207,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/data_analysis-13.png"
@@ -222,7 +222,7 @@ const Services = () => {
             </p>
           </div>
 
-          <div className="p-6 border rounded-lg text-center hover:bg-gray-100">
+          <div className="p-6 border  text-center hover:bg-gray-100">
             <div className="text-3xl text-gray-700 mb-4">
               <img
                 src="../../../public/images/maintance_support-14.png"

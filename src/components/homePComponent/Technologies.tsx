@@ -15,13 +15,22 @@ const Technologies = () => {
           <br /> — innovative & high-performance solutions.
         </p>
       </div>
-      <Marquee gradient gradientColor="#f0f0f0" gradientWidth={200}>
-        <div className="flex flex-col gap-5">
+      <div className="flex flex-col gap-5">
+        <Marquee gradient gradientColor="#f0f0f0" gradientWidth={200}>
           <TechSlider></TechSlider>
+        </Marquee>
+        <Marquee
+          direction="right"
+          gradient
+          gradientColor="#f0f0f0"
+          gradientWidth={200}
+        >
           <TechSlider></TechSlider>
+        </Marquee>
+        <Marquee gradient gradientColor="#f0f0f0" gradientWidth={200}>
           <TechSlider></TechSlider>
-        </div>
-      </Marquee>
+        </Marquee>
+      </div>
     </div>
   );
 };
